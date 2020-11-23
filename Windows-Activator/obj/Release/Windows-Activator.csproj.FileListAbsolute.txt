@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Release\Windows-Activator.exe.config
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Release\Windows-Activator.exe
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Release\Windows-Activator.pdb
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows_Activator.Form1.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows_Activator.Form2.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows_Activator.Form3.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows_Activator.Properties.Resources.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows-Activator.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows-Activator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows-Activator.exe
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Release\Windows-Activator.pdb

@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Debug\Windows-Activator.exe.config
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Debug\Windows-Activator.exe
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\bin\Debug\Windows-Activator.pdb
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows-Activator.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows_Activator.Form1.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows_Activator.Properties.Resources.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows-Activator.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows-Activator.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows-Activator.exe
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows-Activator.pdb
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows_Activator.Form2.resources
+C:\Users\alexa\source\repos\Windows-Activator\Windows-Activator\obj\Debug\Windows_Activator.Form3.resources
